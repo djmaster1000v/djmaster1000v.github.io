@@ -1,0 +1,46 @@
+h1{
+	
+	color: #0f4c75;
+	background-color: white;
+	width: 550px;
+    margin: 10px 35%;
+	}
+
+h2{
+	margin: 0px auto;
+	color: #01579b;
+	text-align: center;
+
+}
+
+body{
+	background-color: #b2ff59;
+	margin-top: 50px;
+	
+	
+}
+.foto{
+	margin: 30px 40%;
+	width: 500px;
+	height: auto;
+	border-radius: 30px;
+}
+
+.tabla{
+
+	width: 500px;
+	margin: 10px 35%;
+	background-color: #00FA9A;
+
+}
+
+h3{
+	margin: 0px auto;
+	text-align: center;
+	color: #bbe1fa;
+	font-weight: bold;
+}
+h4{
+	margin: 0px auto;
+	font-weight: bold;
+}
